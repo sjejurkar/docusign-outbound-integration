@@ -1,0 +1,15 @@
+{
+    "event": "recipient-completed",
+    "apiVersion": "v2.1",
+    "uri": "/restapi/v2.1/accounts/613a8f8a-8289-4c5b-9151-565b62027228/envelopes/621dd8c9-f0e9-4566-902d-e99defe6d37a",
+    "retryCount": 0,
+    "configurationId": 10394939,
+    "generatedDateTime": "2023-03-13T16:15:50.4460000Z",
+    "data":
+    {
+        "accountId": "613a8f8a-8289-4c5b-9151-565b62027228",
+        "userId": "74a5d12e-99e2-4bae-bc3c-b1b3b93eacfa",
+        "envelopeId": "621dd8c9-f0e9-4566-902d-e99defe6d37a",
+        "recipientId": "1"
+    }
+}
